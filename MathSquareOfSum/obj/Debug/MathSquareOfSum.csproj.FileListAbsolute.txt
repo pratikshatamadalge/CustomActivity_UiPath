@@ -1,0 +1,6 @@
+F:\VS\UiPath\MathSquareOfSum\obj\Debug\MathSquareOfSum.csprojAssemblyReference.cache
+F:\VS\UiPath\MathSquareOfSum\obj\Debug\MathSquareOfSum.csproj.CoreCompileInputs.cache
+F:\VS\UiPath\MathSquareOfSum\bin\Debug\MathSquareOfSum.dll
+F:\VS\UiPath\MathSquareOfSum\bin\Debug\MathSquareOfSum.pdb
+F:\VS\UiPath\MathSquareOfSum\obj\Debug\MathSquareOfSum.dll
+F:\VS\UiPath\MathSquareOfSum\obj\Debug\MathSquareOfSum.pdb
